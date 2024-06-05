@@ -1,6 +1,8 @@
 Thanks for visiting my profile page!
 
 I am currently working as a Senior Research Fellow in the Theory Department at CERN. My interests are in perturbative QCD and event generators.
+
+My work on parton showers can be found in the PanScales repository: https://gitlab.com/panscales/panscales-0.X
 <!--
 **alexanderkarlberg/alexanderkarlberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
