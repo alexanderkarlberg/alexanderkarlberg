@@ -2,7 +2,7 @@ Thanks for visiting my profile page!
 
 I am currently working as a Senior Research Fellow in the Theory Department at CERN. My interests are in perturbative QCD and event generators.
 
-For an up2date list of my publications, please consult [INSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Karlberg.1&ui-citation-summary=true).
+For an up2date list of my publications, please consult [iNSPIRE](https://inspirehep.net/authors/1069015).
 
 Currently most of my work is focused on improving parton showers and higher order matching methods. The public part of that work can be found in the [PanScales repository](https://gitlab.com/panscales/panscales-0.X).
 
